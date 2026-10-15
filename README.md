@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="myko-icon.png" alt="Myko" width="120">
+<img src="logo.png" alt="Myko" width="120">
 
 # Myko
 
@@ -13,8 +13,6 @@ Build, debug, review, and ship software without constantly switching between too
 <br>
 
 [![Website](https://img.shields.io/badge/Website-Myko-111111?style=for-the-badge)](https://myko-beta.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-111111?style=for-the-badge\&logo=github)](https://github.com/mustafa-lil-dev/myko-ai)
-[![License](https://img.shields.io/badge/License-GPL--3.0-111111?style=for-the-badge)](LICENSE)
 
 </div>
 
