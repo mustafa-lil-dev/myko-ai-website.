@@ -55,7 +55,7 @@ Myko is designed to keep the entire development workflow inside one workspace.
 
 ### AI Workflow
 
-<img src="docs/ai-workflow.png" alt="Myko AI Workflow" width="100%">
+<img src="ai-workflow.png" alt="Myko AI Workflow" width="100%">
 
 Plan, build, review, and iterate with AI directly inside your development workspace.
 
@@ -65,7 +65,7 @@ Plan, build, review, and iterate with AI directly inside your development worksp
 
 ### Code Editor
 
-<img src="docs/editor.png" alt="Myko Code Editor" width="100%">
+<img src="editor.png" alt="Myko Code Editor" width="100%">
 
 A focused CodeMirror-powered editor with syntax highlighting, diagnostics, Vim mode, AI completion, and AI-assisted edits.
 
@@ -81,7 +81,7 @@ A focused CodeMirror-powered editor with syntax highlighting, diagnostics, Vim m
 
 ### Native Terminal
 
-<img src="docs/terminal.png" alt="Myko Terminal" width="100%">
+<img src="terminal.png" alt="Myko Terminal" width="100%">
 
 A native PTY terminal with tabs, splits, background processes, WebGL rendering, and multiple shell environments.
 
@@ -91,7 +91,7 @@ A native PTY terminal with tabs, splits, background processes, WebGL rendering, 
 
 ### Source Control
 
-<img src="docs/source-control.png" alt="Myko Source Control" width="100%">
+<img src="source-control.png" alt="Myko Source Control" width="100%">
 
 Stage, commit, push, search history, and explore Git history through a visual commit graph.
 
@@ -107,7 +107,7 @@ Stage, commit, push, search history, and explore Git history through a visual co
 
 ### Themes
 
-<img src="docs/themes.png" alt="Myko Themes" width="100%">
+<img src="themes.png" alt="Myko Themes" width="100%">
 
 Customize the workspace with application themes, editor themes, backgrounds, opacity, blur, and keyboard shortcuts.
 
@@ -117,7 +117,7 @@ Customize the workspace with application themes, editor themes, backgrounds, opa
 
 ### Web Preview
 
-<img src="docs/web-preview.png" alt="Myko Web Preview" width="100%">
+<img src="web-preview.png" alt="Myko Web Preview" width="100%">
 
 Detect local development servers and preview web applications directly inside Myko.
 
